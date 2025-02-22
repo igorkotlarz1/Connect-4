@@ -5,3 +5,4 @@ The main goal of this beginner project is to practice python basics such as: loo
 In further versions: 
   - writing and reading from .txt file, using decorators
   - creating GUI
+  - advanced: incorporating mini-max algorithm for player vs computer version
